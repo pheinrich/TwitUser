@@ -1,0 +1,7 @@
+TwitUser
+Copyright © 2014  Peter Heinrich
+
+Simple command-line tool to retrieve the followers or friends associated with
+a specified Twitter handle. Assumes you've created a Twitter application in
+order to gain access to the Twitter API, and that two environment variables
+(TWITTER_APIKEY, TWITTER_APISECRET) have been initialized as appropriate.
